@@ -148,13 +148,4 @@ All 38 tests pass in the submitted version of the project.
 
 ---
 
-## Screenshots
 
-*(To be added: screenshots of the main window, showing the original image, processed stages, lane overlay, and analysis panel.)*
-
----
-
-## Notes
-
-- All processing happens locally on your machine. No image or video ever leaves your computer.
-- The quality score thresholds (70+ CLEAR, 40–69 FADED, 1–39 POOR/DAMAGED, 0 NOT DETECTED) are project-defined values, explained in full in `statement.md` and in the accompanying project report.
